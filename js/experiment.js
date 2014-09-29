@@ -1,3 +1,15 @@
+/* 
+ *	Each participant is presented 16 sentences,
+ *	with as much a-variants, as b-variants, as c-variants,
+ *	as d-variants (4 each)
+ *
+ *	4 presentation-strategies
+ *	1a,2a,3a,4a,5b,6b,7b,8b...
+ *	1b,2b,3b,4b,5c,6c,7c,8c...
+ *
+ *	Determine strategy according to # of finished experiments on server
+ */
+
 $(document).ready(function() {
 	 // Parse in the XML
 	 $.getJSON('test.json', function(data) {
@@ -8,11 +20,12 @@ $(document).ready(function() {
 				type: "text",
 				text: [filler]
 			};
-
+console.log(sentences.length)
 			// Create an experiment block for every sentences
 			for (i=0; i<sentences.length; ++i) {
 				 var correct = sentences[i].correct.split(" ");
 				 var incorrect = sentences[i].incorrect.split(" ");
+				 console.log("" + correct[sentences[i].ppos]);
 				 var answers = [];
 				 var stimuli = [];
 				 for (j=0; j<correct.length; ++j) {

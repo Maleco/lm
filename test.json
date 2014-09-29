@@ -1,10 +1,8 @@
 {"sentences":[
-	 {
-			"correct": "Dit is een goede zin",
-			"incorrect":"zin goede een is Dit"
-	 },{
-			"correct": "Nog een goede zin",
-			"incorrect": "zin goede een Nog"
-	 }
+	{
+		"correct": "I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
+		"incorrect": "I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
+		"ppos": "15"
+	}
 ]}
 
