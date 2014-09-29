@@ -1,0 +1,13 @@
+.stimulus {
+	 text-transform: uppercase;
+	 font-size: xx-large;
+}
+
+#left {
+	 float: left;
+}
+
+#right { 
+	 float: right;
+}
+

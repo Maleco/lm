@@ -1,0 +1,10 @@
+{"sentences":[
+	 {
+			"correct": "Dit is een goede zin",
+			"incorrect":"zin goede een is Dit"
+	 },{
+			"correct": "Nog een goede zin",
+			"incorrect": "zin goede een Nog"
+	 }
+]}
+

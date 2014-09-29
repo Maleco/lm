@@ -1,0 +1,88 @@
+a SPEC INDEFT SUBJ
+b. SPEC INDF OBJ
+c. Ind SPEC OBJ
+d. Inf SPEC sub
+
+It appeared that: 1, 4, 9, 13, 15
+it looked like: 2, 3 7 10
+
+1a: I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.
+1b: I walked into the room and saw the nanny with a man. It appeared that he  had just put the baby to bed.
+1c: I walked into the room and saw a man with the nanny. It appeared that he had just put the baby to bed.
+1d: I walked into the room and saw a man with the nanny. It appeared that she had just put the baby to bed.
+
+2a: We entered the hospital room and found a small boy holding onto the nurse. It looked like he was very upset.
+2b: We entered the hospital room and found a small boy holding onto the nurse. It looked like she was very upset.
+2c: We entered the hospital room and found the nurse holding onto a small boy. It looked like she was very upset.
+2d: We entered the hospital room and found the nurse holding onto a small boy. It looked like he was very upset.
+
+3a. When I got to the kitchen, I saw the maid yelling at a man. It seemed that she had just discovered a mouse in one of the cupboards.
+3b. When I got to the kitchen, I saw the maid yelling at a man. It seemed that he had just discovered a mouse in one of the cupboards.
+3c. When I got to the kitchen, I saw a man yelling at the maid. It seemed that he had just discovered a mouse in one of the cupboards.
+3d. When I got to the kitchen, I saw a man yelling at the maid. It seemed that she had just discovered a mouse in one of the cupboards.
+
+4a: At the end of the concert the rock star waved at a woman. It appeared that he had really enjoyed the show. 
+4b: At the end of the concert the rock star waved at a woman. It appeared that she had really enjoyed the show.
+4c: At the end of the concert a woman waved at the rock star. It appeared that she had really enjoyed the show.
+4d: At the end of the concert a woman waved at the rock star. It appeared that he had really enjoyed the show.
+
+5a: I arrived at the café and discovered the waitress talking to a little boy. It looked like she was looking for someone.
+5b: I arrived at the café and discovered the waitress talking to a little boy. It looked like he was looking for someone.
+5c: I arrived at the café and discovered a little boy talking to the waitress. It looked like he was looking for someone.
+5d: I arrived at the café and discovered a little boy talking to the waitress. It looked like she was looking for someone.
+
+6a: We got to the wedding and found the rabbi talking with a woman. It seemed like he was explaining some of the details of the ceremony.
+6b: We got to the wedding and found the rabbi talking with a woman. It seemed like she was explaining some of the details of the ceremony.
+6c: We got to the wedding and found a woman talking with the rabbi. It seemed like she was explaining some of the details of the ceremony.
+6d: We got to the wedding and found a woman talking with the rabbi. It seemed like he was explaining some of the details of the ceremony.
+
+7a. When we got to the scene of the accident, we found the female police officer talking to a man. It appeared that she was explaining the situation.
+7b. When we got to the scene of the accident, we found the female police officer talking to a man. It appeared that he was explaining the situation.
+7c. When we got to the scene of the accident, we found a man talking to the female police officer. It appeared that he was explaining the situation.
+7d. When we got to the scene of the accident, we found a man talking to the female police officer. It appeared that she was explaining the situation.
+
+8a. The first scene of the movie was the cowboy talking to a woman.  It looked like he was asking for directions.
+8b. The first scene of the movie was the cowboy talking to a woman.  It looked like she was asking for directions.
+8c. The first scene of the movie was a woman talking to the cowboy.  It looked like she was asking for directions.
+8d. The first scene of the movie was a woman talking to the cowboy.  It looked like he was asking for directions.
+
+9a. Before the show I noticed the ballerina smiling at a man. It seemed like she was really happy to be there.
+9b. Before the show I noticed the ballerina smiling at a man. It seemed like he was really happy to be there.
+9c. Before the show I noticed a man smiling at the ballerina. It seemed like he was really happy to be there
+9d. Before the show I noticed a man smiling at the ballerina. It seemed like she was really happy to be there
+
+10a. On the first day of boot camp we noticed the drill sergeant with a little girl. It appeared that he had been hoping to discuss the day's activities.
+10b. On the first day of boot camp we noticed the drill sergeant with a little girl. It appeared that she had been hoping to discuss the day's activities.
+10c. On the first day of boot camp we noticed a little girl with the drill sergeant. It appeared that she had been hoping to discuss the day's activities.
+10d. On the first day of boot camp we noticed a little girl with the drill sergeant. It apppeared that he had been hoping to discuss the day's activities.
+
+11a. In the corner of the convent I saw the nun holding the hand of a boy.  It looked like as if she was telling a story.
+11b. In the corner of the convent I saw the nun holding the hand of a boy.  It looked like as if he was telling a story.
+11c. In the corner of the convent I saw a boy holding the hand of the nun.  It looked like as if he was telling a story.
+11d. In the corner of the convent I saw a boy holding the hand of the nun.  It looked like as if she was telling a story.
+
+12a. After the race was over I saw the jockey with a little girl. It seemed like he had found a scarf on the ground.
+12b. After the race was over I saw the jockey with a little girl. It seemed like she had found a scarf on the ground.
+12c. After the race was over I saw a little girl with the jockey. It seemed like she had found a scarf on the ground.
+12d. After the race was over I saw a little girl with the jockey. It seemed like he had found a scarf on the ground.
+			
+13a. At the award ceremony I noticed the actress waving at a little boy. It appeared that she was also looking for someone else.
+13b. At the award ceremony I noticed the actress waving at a little boy. It appeared that he was also looking for someone else.
+13c. At the award ceremony I noticed a little boy waving at the actress. It appeared that he was also looking for someone else.
+13d. At the award ceremony I noticed a little boy waving at the actress. It appeared that she was also looking for someone else.
+
+14a: After the fire was over we discovered the fire chief with a girl. It looked like he had lost something during the evacuation. 
+14b: After the fire was over we discovered the fire chief with a girl. It looked like she had lost something during the evacuation.
+14c: After the fire was over we discovered a girl with the fire chief. It looked like she had lost something during the evacuation.
+14d: After the fire was over we discovered a girl with the fire chief. It looked like he had lost something during the evacuation.
+
+15a. As everybody arrived for the royal concert, they saw the queen with a small boy. It seemed like she was carrying a violin.
+15b. As everybody arrived for the royal concert, they saw the queen with a small boy. It seemed like he was carrying a violin.
+15c. As everybody arrived for the royal concert, they saw a small boy with the queen. It seemed like he was carrying a violin.
+15d. As everybody arrived for the royal concert, they saw a small boy with the queen. It seemed like she was carrying a violin.
+
+16a. At the end of the church service, I noticed the priest talking to a girl. It appeared that he was just about to burst into tears.
+16b. At the end of the church service, I noticed the priest talking to a girl. It appeared that she was just about to burst into tears.
+16c. At the end of the church service, I noticed a girl talking to the priest. It appeared that she was just about to burst into tears.
+16d. At the end of the church service, I noticed a girl talking to the priest. It appeared that he was just about to burst into tears.
+
