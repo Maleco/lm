@@ -74,7 +74,7 @@ $(document).ready(function() {
 			experiment_structure: structure,
 			on_finish: function(data) {
 				console.log(data);
-				window.location.replace("http://www.google.nl");
+				window.location.replace("thanks.php");
 			}
 		});
 	});
