@@ -1,8 +1,73 @@
-{"sentences":[
-	{
-		"correct": "I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
-		"incorrect": "I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
-		"ppos": "15"
-	}
-]}
+{
+	"sentences": [
+		{
+			"a":{
+				"correct": 
+				"I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
+				"incorrect": 
+				"I walked into the room and saw the nanny with a man. It appeared that she had just put the baby to bed.",
+				"ppos": 
+				"15"
+			},
+			"b":{
+				"correct": 
+				"I walked into the room and saw the nanny with a man. It appeared that he had just put the baby to bed.",
+				"incorrect": 
+				"I walked into the room and saw the nanny with a man. It appeared that he had just put the baby to bed.",
+				"ppos": 
+				"15"
+			},
+			"c":{
+				"correct": 
+				"I walked into the room and saw a man with the nanny. It appeared that he had just put the baby to bed.",
+				"incorrect": 
+				"I walked into the room and saw a man with the nanny. It appeared that he had just put the baby to bed.",
+				"ppos": 
+				"15"
+			},
+			"d":{
+				"correct": 
+				"I walked into the room and saw a man with the nanny. It appeared that she had just put the baby to bed.",
+				"incorrect": 
+				"I walked into the room and saw a man with the nanny. It appeared that she had just put the baby to bed.",
+				"ppos": 
+				"15"
+			}
+		},
+		{
+			"a":{
+				"correct": 
+				"We entered the hospital room and found a small boy holding onto the nurse. It looked like he was very upset.",
+				"incorrect": 
+				"We entered the hospital room and found a small boy holding onto the nurse. It looked like he was very upset.",
+				"ppos":
+				17
+			},
+			"b":{
+				"correct": 
+				"We entered the hospital room and found a small boy holding onto the nurse. It looked like she was very upset.",
+				"incorrect": 
+				"We entered the hospital room and found a small boy holding onto the nurse. It looked like she was very upset.",
+				"ppos":
+				17
+			},
+			"c":{
+				"correct": 
+				"We entered the hospital room and found the nurse holding onto a small boy. It looked like she was very upset.",
+				"incorrect": 
+				"We entered the hospital room and found the nurse holding onto a small boy. It looked like she was very upset.",
+				"ppos":
+				17
+			},
+			"d":{
+				"correct": 
+				"We entered the hospital room and found the nurse holding onto a small boy. It looked like he was very upset.",
+				"incorrect": 
+				"We entered the hospital room and found the nurse holding onto a small boy. It looked like he was very upset.",
+				"ppos":
+				17
+			}
+		}
+	]
+}
 
