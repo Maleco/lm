@@ -1,8 +1,11 @@
 // Experiment instructions
-var welcome_message = "<div id='instructions'><p>Welcome to the L-Maze Experiment. Press enter to begin</p></div>";
+var welcome_message = 
+"<div id='instructions'><p>Welcome to the L-Maze Experiment.<br>" + 
+"Before beginning, please close as much programs as possible. This includes browser tabs.<br>" + 
+" Press a key to begin</p></div>";
 
-var instruction = "<div id='instructions'>Press left button to select the left word, press right for the right word.</div>";
-var close = "<div id='instructions'>Press a button to start the experiment.</div>";
+var instruction = "<div id='instructions'>Press left arrow button to select the left word, press the right arrow button for the word on the right.</div>";
+var close = "<div id='instructions'>Press a key to start the experiment.</div>";
 
 var instruction_block = {
 	 type: "text", 

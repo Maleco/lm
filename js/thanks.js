@@ -1,6 +1,6 @@
 // Experiment instructions
 var thank_message = 
-"<div id='instructions'><p>Thanks for contributing to ourL-Maze Experiment.</br>" + 
+"<div id='instructions'><p>Thanks for contributing to our L-Maze Experiment.</br>" + 
 "Press any button to take the experiment again, or feel free to leave this page</p></div>";
 
 var instruction_block = {

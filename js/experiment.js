@@ -9,31 +9,49 @@
  *
  *	Determine strategy according to # of finished experiments on server
  */
+var variants = [
+	[
+		"a", "a", "a", "a", 
+		"b", "b", "b", "b", 
+		"c", "c", "c", "c",
+		"d", "d", "d", "d"
+	],[
+		"b", "b", "b", "b", 
+		"c", "c", "c", "c",
+		"d", "d", "d", "d",
+		"a", "a", "a", "a" 
+	],[
+		"c", "c", "c", "c",
+		"d", "d", "d", "d",
+		"a", "a", "a", "a", 
+		"b", "b", "b", "b"
+	],[
+		"d", "d", "d", "d",
+		"a", "a", "a", "a", 
+		"b", "b", "b", "b", 
+		"c", "c", "c", "c"
+	]
+	];
 
-$(document).ready(function() {
-	// Parse in the XML
-	var variant1 = ["a", "a", "a", "a"];
+	$(document).ready(function() {
+		// Parse in the XML
 
-	$.getJSON('test.json', function(data) {
-		var sentences = data["sentences"];
-		var structure = [];
-		var filler = "<div id='instructions'>Prepare for the next sentence!<br>Press any button to continue</div>";
-		var filler_block = {
-			type: "text",
-			text: [filler]
-		};
+		$.getJSON('test.json', function(data) {
+			var sentences = data["sentences"];
+			var structure = [];
+			var filler = "<div id='instructions'>Prepare for the next sentence!<br>Press any button to continue</div>";
+			var filler_block = {
+				type: "text",
+				text: [filler]
+			};
 
-		console.log(sentences);
-		console.log(sentences.length)
+			// Choose a variant (0-3) at random
+			var variant = variants[Math.floor(Math.random()*4)];
 			// Create an experiment block for every sentence
 			for (i=0; i<sentences.length; ++i) {
-				var sentence = sentences[i];
-				console.log(sentence);
-				var variant = sentence.a;
-				console.log(variant);
-				var correct = variant.correct.split(" ");
-				var incorrect = variant.incorrect.split(" ");
-				console.log("" + correct[variant.ppos]);
+				var sentence = sentences[i][variant[i]];
+				var correct = sentence.correct.split(" ");
+				var incorrect = sentence.incorrect.split(" ");
 				var answers = [];
 				var stimuli = [];
 				for (j=0; j<correct.length; ++j) {
@@ -68,14 +86,13 @@ $(document).ready(function() {
 				structure.push(filler_block);
 			}
 
-
-		console.log(structure);
-		jsPsych.init({
-			experiment_structure: structure,
-			on_finish: function(data) {
-				console.log(data);
-				window.location.replace("thanks.php");
-			}
+			// Run the experiment 
+			jsPsych.init({
+				experiment_structure: structure,
+				on_finish: function(data) {
+					console.log(data);
+					window.location.replace("thanks.php");
+				}
+			});
 		});
 	});
-});
