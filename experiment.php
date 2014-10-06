@@ -13,6 +13,20 @@
 			<meta charset="utf-8">
 	 </head>
 	 <body>
+			<div id="count-target" style="display: none;">
+			<?php
+				 // integer starts at 0 before counting
+				 $i = 0; 
+				 $dir = './results/';
+				 if ($handle = opendir($dir)) {
+						while (($file = readdir($handle)) !== false){
+							 if (!in_array($file, array('.', '..')) && !is_dir($dir.$file)) 
+							 $i++;
+						}
+				 }
+				 echo htmlspecialchars($i);
+			?>
+			</div>
 			<script src="js/experiment.js"></script>
 	 </body>
 </html>
