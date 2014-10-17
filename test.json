@@ -1,6 +1,6 @@
 [ 
-	{	"id":"1", "variant":"a", "correct":	"ik liep de kamer binnen en zag de oppas met een man. het leek erop dat ze de baby net naar bed gebracht had.", "incorrect": ""},
-	{	"id":"1", "variant":"b", "correct":	"ik liep de kamer binnen en zag de oppas met een man. het leek erop dat hij de baby net naar bed gebracht had.", "incorrect": ""},
-	{	"id":"1", "variant":"c", "correct":	"ik liep de kamer binnen en zag een man met de oppas. het leek erop dat hij de baby net naar bed gebracht had.", "incorrect": ""},
-	{	"id":"1", "variant":"d", "correct":	"ik liep de kamer binnen en zag een man met de oppas. het leek erop dat ze de baby net naar bed gebracht had.", "incorrect": ""}
+	{ "filler":"0", "id":"1", "variant":"a", "correct":	"ik liep de kamer binnen en zag de oppas met een man. het leek erop dat ze de baby net naar bed gebracht had.", "incorrect": ""},
+	{ "filler":"0",	"id":"1", "variant":"b", "correct":	"ik liep de kamer binnen en zag de oppas met een man. het leek erop dat hij de baby net naar bed gebracht had.", "incorrect": ""},
+	{ "filler":"0",	"id":"1", "variant":"c", "correct":	"ik liep de kamer binnen en zag een man met de oppas. het leek erop dat hij de baby net naar bed gebracht had.", "incorrect": ""},
+	{ "filler":"0",	"id":"1", "variant":"d", "correct":	"ik liep de kamer binnen en zag een man met de oppas. het leek erop dat ze de baby net naar bed gebracht had.", "incorrect": ""}
 ] 
