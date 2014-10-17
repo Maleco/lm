@@ -13,7 +13,14 @@
 			<meta charset="utf-8">
 	 </head>
 	 <body>
-			<div id='target'></div>
-			<script src="js/thanks.js"></script>
+			<div id='instructions'>
+				 <p>
+				 Bedankt voor het meedoen aan het experiment.<br> 
+				 Druk op de knop om terug te keren naar de homepage indien gewenst.
+				 </p>
+			</div>
+			<form name="info" method="post" action="index.php">
+				 <input type="submit" class="start" value="De Knop"><br><br>
+			</form>
 	 </body>
 </html>

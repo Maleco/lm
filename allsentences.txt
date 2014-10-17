@@ -1,0 +1,384 @@
+1a:
+Ik liep de kamer binnen en zag de oppas met een man. Het leek erop dat ze de baby net naar bed gebracht had.
+X ruip wa zobel gopben ap zed mo afbal tek oep wap. has lijt inaf wot vo wo gowi jek joor bog bescinst hog.
+1b:
+Ik liep de kamer binnen en zag de oppas met een man. Het leek erop dat hij de baby net naar bed gebracht had.
+X ruip wa zobel gopben ap zed mo afbal tek oep wap. has lijt inaf wot kui wo gowi jek joor bog bescinst hog.
+1c:
+Ik liep de kamer binnen en zag een man met de oppas. Het leek erop dat hij de baby net naar bed gebracht had.
+X ruip wa zobel gopben ap zed oep wap tek mo afbal. has lijt inaf wot kui wo gowi jek joor bog bescinst hog.
+1d:
+Ik liep de kamer binnen en zag een man met de oppas. Het leek erop dat ze de baby net naar bed gebracht had.
+X ruip wa zobel gopben ap zed oep wap tek mo afbal. has lijt inaf wot vo wo gowi jek joor bog bescinst hog.
+2a:
+We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof hij helemaal overtsuur was.
+X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam kui hemepeel ovenstome pes.
+2b:
+We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof ze helemaal overtsuur was.
+X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam vo hemepeel ovenstome pes.
+2c:
+We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof ze helemaal overtsuur was.
+X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam vo hemepeel ovenstome pes.
+2d:
+We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof hij helemaal overtsuur was.
+X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam kui hemepeel ovenstome pes.
+3a:
+Toen ik de keuken in kwam, zag ik de huishoudster tegen een man schreeuwen. Blijkbaar had ze net een muis gezien in een van de keukenkastjes.
+X ot ta lorsen yp clom, zid ol hi rijnpapsster ziber ijp mip schweidser. ploelmaar ked vi jes oop woes zeboer ol aul zen hy dyspenbodsves.
+3b:
+Toen ik de keuken in kwam, zag ik de huishoudster tegen een man schreeuwen. Blijkbaar had hij net een muis gezien in een van de keukenkastjes.
+X ot ta lorsen yp clom, zid ol hi rijnpapsster ziber ijp mip schweidser. ploelmaar ked rau jes oop woes zeboer ol aul zen hy dyspenbodsves.
+3c:
+Toen ik de keuken in kwam, zag ik een man schreeuwen tegen de huishoudster. Blijkbaar had hij net een muis gezien in een van de keukenkastjes.
+X ot ta lorsen yp clom, zid ol ijp mip schweidser ziber hi rijnpapsster. ploelmaar ked rau jes oop woes zeboer ol aul zen hy dyspenbodsves.
+3d:
+Toen ik de keuken in kwam, zag ik een man schreeuwen tegen de huishoudster. Blijkbaar had ze net een muis gezien in een van de keukenkastjes.
+X ot ta lorsen yp clom, zid ol ijp mip schweidser ziber hi rijnpapsster. ploelmaar ked vi jes oop woes zeboer ol aul zen hy dyspenbodsves.
+4a:
+Aan het eind van het concert zwaaide de rockster naar een vrouw. Het zag eruit alsof hij enorm van de show genoten had.
+X kes iedt zap his jalhert ploeute ki leultjer jeer oel vrerk. res veg inoek oulim rau oband gon ty chew veciten kod.
+4b:
+Aan het eind van het concert zwaaide de rockster naar een vrouw. Het zag eruit alsof ze enorm van de show genoten had.
+X kes iedt zap his jalhert ploeute ki leultjer jeer oel vrerk. res veg inoek oulim vi oband gon ty chew veciten kod.
+4c:
+Aan het eind van het concert zwaaide een vrouw naar de rockster. Het zag eruit alsof ze enorm van de show genoten had.
+X kes iedt zap his jalhert ploeute oel vrerk jeer ki leultjer. res veg inoek oulim vi oband gon ty chew veciten kod.
+4d:
+Aan het eind van het concert zwaaide een vrouw naar de rockster. Het zag eruit alsof hij enorm van de show genoten had.
+X kes iedt zap his jalhert ploeute oel vrerk jeer ki leultjer. res veg inoek oulim rau oband gon ty chew veciten kod.
+5a:
+Ik kwam aan bij het café en ik zag de serveerster naar een klein jongetje zwaaien. Het leek alsof ze naar iemand op zoek was.
+X smom oep rau wes zoba yp ys vog ro nafcijdster joer eyl spoon netterste fleeder. wot hijk oulym gi noef uibyrs yn zijt tes.
+5b:
+Ik kwam aan bij het café en ik zag de serveerster naar een klein jongetje zwaaien. Het leek alsof hij naar iemand op zoek was.
+X smom oep rau wes zoba yp ys vog ro nafcijdster joer eyl spijn netterste fleeder. wot hijk oulym rie noef uibyrs yn zijt tes.
+5c:
+Ik kwam aan bij het café en ik zag een klein jongetje naar de serveerster zwaaien. Het leek alsof hij naar iemand op zoek was.
+X smom oep rau wes zoba yp ys vog eyl spijn netterste joer ro nafcijdster fleeder. wot hijk oulym rie noef uibyrs yn zijt tes.
+5d:
+Ik kwam aan bij het café en ik zag een klein jongetje naar de serveerster zwaaien. Het leek alsof ze naar iemand op zoek was.
+X smom oep rau wes zoba yp ys vog eyl spoon netterste joer ro nafcijdster fleeder. wot hijk oulym gi noef uibyrs yn zijt tes.
+6a:
+Toen wij op de bruiloft aankwamen zagen wij de dominee met een vrouw praten. Het leek erop dat hij haar de details van de ceremonie uitlegde.
+X dui ef ri driedonk uitwramen xebes pei bo nacopui pes eal vrick fleber. mit hook inat mit rie hoom by ledyxen vep gy zelekokie aercyote.
+6b:
+Toen wij op de bruiloft aankwamen zagen wij de dominee met een vrouw praten. Het leek erop dat ze haar de details van de ceremonie uitlegde.
+X dui ef ri driedonk uitwramen xebes pei bo nacopui pes eal vrick fleber. mit hook inat mit gi hoom by ledyxen vep gy zelekokie aercyote.
+6c:
+Toen wij op de bruiloft aankwamen zagen wij een vrouw met de dominee praten. Het leek erop dat ze haar de details van de ceremonie uitlegde.
+X dui ef ri driedonk uitwramen xebes pei eal vrick pes bo nacopui fleber. mit hook inat mit gi hoom by ledyxen vep gy zelekokie aercyote.
+6d:
+Toen wij op de bruiloft aankwamen zagen wij een vrouw met de dominee praten. Het leek erop dat hij haar de details van de ceremonie uitlegde.
+X dui ef ri driedonk uitwramen xebes pei eal vrick pes bo nacopui fleber. mit hook inat mit rie hoom by ledyxen vep gy zelekokie aercyote.
+7a:
+Toen we de plek van het ongeluk bereikten, zagen wij de agente praten met een man. Blijkbaar legde ze uit wat er gebeurd was.
+X ta go knet vop tek angerok bevijnten, xewer pie gi oderte flebes mas eil hon. ploetmaar radte go iek mit am bewiste wot.
+7b:
+Toen we de plek van het ongeluk bereikten, zagen wij de agente praten met een man. Blijkbaar legde hij uit wat er gebeurd was.
+X ta go knet vop tek angerok bevijnten, xewer pie gi oderte flebes mas eil hon. ploetmaar radte lau iek mit am bewiste wot.
+7c:
+Toen we de plek van het ongeluk bereikten, zagen wij een man met de agente praten. Blijkbaar legde hij uit wat er gebeurd was.
+X ta go knet vop tek angerok bevijnten, xewer pie eil hon mas gi oderte flebes. ploetmaar radte lau iek mit am bewiste wot.
+7d:
+Toen we de plek van het ongeluk bereikten, zagen wij een man met de agente praten. Blijkbaar legde ze uit wat er gebeurd was.
+X ta go knet vop tek angerok bevijnten, xewer pie eil hon mas gi oderte flebes. ploetmaar radte go iek mit am bewiste wot.
+8a:
+In de openingsscene van de film was de cowboy met een vrouw aan het praten. Het leek erop dat hij om de richting vroeg.
+X lo olecexemplene gyn ly farf tat vo codmah wes ool vrips ijp tes flewer. tit hiek inak tit lau if vi leulzing croog.
+8b:
+In de openingsscene van de film was de cowboy met een vrouw aan het praten. Het leek erop dat ze om de richting vroeg.
+X lo olecexemplene gyn ly farf tat vo codmah wes ool vrips ijp tes flewer. tit hiek inak tit go if vi leulzing croog.
+8c:
+In de openingsscene van de film was een vrouw met de cowboy aan het praten. Het leek erop dat ze om de richting vroeg.
+X lo olecexemplene gyn ly farf tat ool vrips wes vo codmah ijp tes flewer. tit hiek inak tit go if vi leulzing croog.
+8d:
+In de openingsscene van de film was een vrouw met de cowboy aan het praten. Het leek erop dat hij om de richting vroeg.
+X lo olecexemplene gyn ly farf tat ool vrips wes vo codmah ijp tes flewer. tit hiek inak tit lau if vi leulzing croog.
+9a:
+Voordat de voorstelling begon, zag ik de ballerina naar een man glimlachen. Het zag eruit alsof ze erg blij was er te zijn.
+X no vaanwrelbers zebar, vad yl ni gysmedapo noom oek hin kwipmachen. tat vig inoel olfam gy alg drei tis og da zoep.
+9b:
+Voordat de voorstelling begon, zag ik de ballerina naar een man glimlachen. Het zag eruit alsof hij erg blij was er te zijn.
+X no vaanwrelbers zebar, vad yl ni gysmedapo noom oek hin kwipmachen. tat vig inoel olfam loe alg drei tis og da zoep.
+9c:
+Voordat de voorstelling begon, zag ik een man naar de ballerina glimlachen. Het zag eruit alsof hij erg blij was er te zijn.
+X no vaanwrelbers zebar, vad yl oek hin noom ni gysmedapo kwipmachen. tat vig inoel olfam loe alg drei tis og da zoep.
+9d:
+Voordat de voorstelling begon, zag ik een man naar de ballerina glimlachen. Het zag eruit alsof ze erg blij was er te zijn.
+X no vaanwrelbers zebar, vad yl oek hin noom ni gysmedapo kwipmachen. tat vig inoel olfam gy alg drei tis og da zoep.
+10a:
+Op de eerste dag van het trainingskamp zagen we de drilsergeant met een klein meisje. Het leek alsof hij het dagprogramma wou bespreken.
+X ji oeutry wog dap hon slawmingspick xewes da fo bleszerhient wot oes spijn leause. hyk hauk olfim loe hyn pidtrochipta teu vesplelen.
+10b:
+Op de eerste dag van het trainingskamp zagen we de drilsergeant met een klein meisje. Het leek alsof ze het dagprogramma wou bespreken.
+X ji oeutry wog dap hon slawmingspick xewes da fo bleszerhient wot oes spijn leause. hyk hauk olfim gy hyn pidtrochipta teu vesplelen.
+10c:
+Op de eerste dag van het trainingskamp zagen we een klein meisje met de drilsergeant. Het leek alsof ze het dagprogramma wou bespreken.
+10d:
+Op de eerste dag van het trainingskamp zagen we een klein meisje met de drilsergeant. Het leek alsof hij het dagprogramma wou bespreken.
+X ji oeutry wog dap hon slawmingspick xewes da oes spoen leause wot fo bleszerhient. hyk hauk olfim loe hyn pidtrochipta teu vesplelen.
+X ji oeutry wog dap hon slawmingspick xewes da oes spoen leause wot fo bleszerhient. hyk hauk olfim gy hyn pidtrochipta teu vesplelen.
+11a:
+In de hoek van het klooster zag ik de non de hand van een jongetje vasthouden. Het zag eruit alsof ze een verhaal vertelde.
+X fi heis daf hyl spearder zer an zi jin za hers din oet nêterste vouwkouden. hys zef inoep olfym ji oem berboet bencyote.
+11b:
+In de hoek van het klooster zag ik de non de hand van een jongetje vasthouden. Het zag eruit alsof hij een verhaal vertelde.
+X fi heis daf hyl spearder zer an zi jin za hers din oet nêterste vouwkouden. hys zef inoep olfym lie oem berboet bencyote.
+11c:
+In de hoek van het klooster zag ik een jongetje de hand van de non vasthouden. Het zag eruit alsof hij een verhaal vertelde.
+X fi heis daf hyl spearder zer an oet nêterste zi hers din za jin vouwkouden. hys zef inoep olfym lie oem berboet bencyote.
+11d:
+In de hoek van het klooster zag ik een jongetje de hand van de non vasthouden. Het zag eruit alsof ze een verhaal vertelde.
+X fi heis daf hyl spearder zer an oet nêterste zi hers din za jin vouwkouden. hys zef inoep olfym ji oem berboet bencyote.
+12a:
+Na de race zag ik de jockey met een klein meisje. Het leek erop dat hij een sjaal op de grond had zien liggen.
+X so laik zem et uy ceuloe tes aes spoen leaupe. hin heak inai tet lie auk freel an ca klors kag zoep wadlen.
+12b:
+Na de race zag ik de jockey met een klein meisje. Het leek erop dat ze een sjaal op de grond had zien liggen.
+X so laik zem et uy ceuloe tes aes spoen leaupe. hin heak inai tet ji auk freel an ca klors kag zoep wadlen.
+12c:
+Na de race zag ik een klein meisje met de jockey. Het leek erop dat ze een sjaal op de grond had zien liggen
+X so laik zem et aes gruin leaupe tes uy ceuloe. hin heak inai tet ji auk freel an ca klors kag zoep wadlen.
+12d:
+Na de race zag ik een klein meisje met de jockey. Het leek erop dat hij een sjaal op de grond had zien liggen.
+X so laik zem et aes gruin leaupe tes uy ceuloe. hin heak inai tet lie auk freel an ca klors kag zoep wadlen.
+13a:
+Bij de prijsuitreiking zag ik de actrice naar een fan zwaaien. Het zag er uit alsof ze ook naar iemand anders op zoek was.
+X ci pruiluisbeiking zor on wa awklihe jaaf aus son fleedes. hil zof ap oek olkam no ijt nuif uibyst outels ir zijs his.
+13b:
+Bij de prijsuitreiking zag ik de actrice naar een fan zwaaien. Het zag er uit alsof hij ook naar iemand anders op zoek was.
+X ci pruiluisbeiking zor on wa awklihe jaaf aus son fleedes. hil zof ap oek olkam kau ijt nuif uibyst outels ir zijs his.
+13c:
+Bij de prijsuitreiking zag ik een fan naar de actrice zwaaien. Het zag er uit alsof hij ook naar iemand anders op zoek was.
+X ci pruiluisbeiking zor on aus son jaaf wa awklihe fleedes. hil zof ap oek olkam kau ijt nuif uibyst outels ir zijs his.
+13d:
+Bij de prijsuitreiking zag ik een fan naar de actrice zwaaien. Het zag er uit alsof ze ook naar iemand anders op zoek was.
+X ci pruiluisbeiking zor on aus son jaaf wa awklihe fleedes. hil zof ap oek olkam no ijt nuif uibyst outels ir zijs his.
+14a:
+Na de brand zagen wij de brandweerman met een meisje praten. Het leek erop dat hij iets kwijt was geraakt tijdens de evacuatie.
+X mo brors xener tie wo blontcaarkan tit ijt leadse flewes. kel heik inag has kau ijmt frijk hat beboeft poetept wi elojualij.
+14b:
+Na de brand zagen wij de brandweerman met een meisje praten. Het leek erop dat ze iets kwijt was geraakt tijdens de evacuatie.
+X mo brors xener tie wo blontcaarkan tit ijt leadse flewes. kel heik inag has no ijmt frijk hat beboeft poetept wi elojualij.
+14c:
+Na de brand zagen wij een meisje met de brandweerman praten. Het leek erop dat ze iets kwijt was geraakt tijdens de evacuatie.
+X mo brors xener tie ijt leadse tit wo blontcaarkan flewes. kel heik inag has no ijmt frijk hat beboeft poetept wi elojualij.
+14d:
+Na de brand zagen wij een meisje met de brandweerman praten. Het leek erop dat hij iets kwijt was geraakt tijdens de evacuatie.
+X mo brors xener tie ijt leadse tit wo blontcaarkan flewes. kel heik inag has kau ijmt frijk hat beboeft poetept wi elojualij.
+15a:
+Toen iedereen bij het koninklijke concert aankwam, zagen ze de koningin met een jongetje. Zo te zien hield ze een viool vast.
+X eudenuin rie mel hopankrijke jashert uitkrom, xenes ni to tokasson tat ijf nebderste. ve wa zaap hijds fo ijm gyoet zost.
+15b:
+Toen iedereen bij het koninklijke concert aankwam, zagen ze de koningin met een jongetje. Zo te zien hield hij een viool vast.
+X eudenuin rie mel hopankrijke jashert uitkrom, xenes ni to tokasson tat ijf nebderste. ve wa zaap huims kie ijm gyoet zest.
+15c:
+Toen iedereen bij het koninklijke concert aankwam, zagen ze een jongetje met de koningin. Zo te zien hield hij een viool vast.
+X eudenuin rie mel hopankrijke jashert uitkrom, xenes ni ijf nebderste tat to tokasson. ve wa zaap huims kie ijm gyoet zest.
+15d:
+Toen iedereen bij het koninklijke concert aankwam, zagen ze een jongetje met de koningin. Zo te zien hield ze een viool vast.
+X eudenuin rie mel hopankrijke jashert uitkrom, xenes ni ijf nebderste tat to tokasson. ve wa zaap hijds fo ijm gyoet zost.
+16a:
+Aan het einde van de kerkdienst zag ik de priester met een jongetje praten. Het zag er uit alsof hij op elk moment in tranen uit kon barsten.
+X pes oeuba nen ta keurhaarst zom yn hi ploerder hat ear nesterste flener. len zir ag oes olkim kie if ack lobacs yl fleber ees kep giltjen.
+16b:
+Aan het einde van de kerkdienst zag ik de priester met een jongetje praten. Het zag er uit alsof ze op elk moment in tranen uit kon barsten.
+X pes oeuba nen ta keurhaarst zom yn hi ploerder hat ear nesterste flener. len zir ag oes olkim fo if ack lobacs yl fleber ees kep giltjen.
+16c:
+Aan het einde van de kerkdienst zag ik een jongetje met de priester praten. Het zag er uit alsof ze op elk moment in tranen uit kon barsten.
+X pes oeuba nen ta keurhaarst zom yn ear nesterste hat hi ploerder flener. len zir ag oes olkim fo if ack lobacs yl fleber ees kep giltjen.
+16d:
+Aan het einde van de kerkdienst zag ik een jongetje met de priester praten. Het zag er uit alsof hij op elk moment in tranen uit kon barsten.
+X pes oeuba nen ta keurhaarst zom yn ear nesterste hat hi ploerder flener. len zir ag oes olkim kie if ack lobacs yl fleber ees kep giltjen.
+17a:
+Er gebeurde iets vreselijks in de schoolkantine. Oscar sloeg Susan, en Kim schopte hem erg hard tegen de schenen.
+X gecijlde ijft vrewelaadt ek hy scheusmontine. amwir grijg ukbyr, yl ker streude rom ash herk zibes ki chlober.
+17b:
+Er gebeurde iets vreselijks in de schoolkantine. Oscar sloeg Susan, dus Kim schopte hem erg hard tegen de schenen.
+X gecijlde ijft vrewelaadt ek hy scheusmontine. amwir grijg ukbyr, tus ker streude rom ash herk zibes ki chlober.
+17c:
+Er gebeurde iets vreselijks in de schoolkantine. Oscar sloeg Susan, en Kim schopte haar erg hard tegen de schenen.
+X gecijlde ijft vrewelaadt ek hy scheusmontine. amwir grijg ukbyr, yl ker streude huim ash herk zibes ki chlober.
+17d:
+Er gebeurde iets vreselijks in de schoolkantine. Oscar sloeg Susan, dus Kim schopte haar erg hard tegen de schenen.
+X gecijlde ijft vrewelaadt ek hy scheusmontine. amwir grijg ukbyr, tus ker streude huim ash herk zibes ki chlober.
+18a:
+Ik kwam er net achter dat onze buren heel erg nieuwsgierig zijn. Julia besloop Kevin, en Floor bespioneerde hem stiekem vanaf de derde verdieping.
+X vrem yp jit ouldes ket euba guven rijl ake toortsvijlig ziep. fuvio vezjief mezin, ir knaar vecloadeerde ler vloebam gomam ty zinte bercijzert.
+18b:
+Ik kwam er net achter dat onze buren heel erg nieuwsgierig zijn. Julia besloop Kevin, dus Floor bespioneerde hem stiekem vanaf de derde verdieping.
+X vrem yp jit ouldes ket euba guven rijl ake toortsvijlig ziep. fuvio vezjief mezin, duk knaar vecloadeerde ler vloebam gomam ty zinte bercijzert.
+18c:
+Ik kwam er net achter dat onze buren heel erg nieuwsgierig zijn. Julia besloop Kevin, en Floor bespioneerde haar stiekem vanaf de derde verdieping.
+X vrem yp jit ouldes ket euba guven rijl ake toortsvijlig ziep. fuvio vezjief mezin, ir knaar vecloadeerde hijf vloebam gomam ty zinte bercijzert.
+18d:
+Ik kwam er net achter dat onze buren heel erg nieuwsgierig zijn. Julia besloop Kevin, dus Floor bespioneerde haar stiekem vanaf de derde verdieping.
+X vrem yp jit ouldes ket euba guven rijl ake toortsvijlig ziep. fuvio vezjief mezin, duk knaar vecloadeerde hijf vloebam gomam ty zinte bercijzert.
+19a:
+Volgens mij heb ik een pestgeval ontdekt. Pieter volgde Femke, en Beau liep hem achterna op weg naar school.
+X dei kob ep eak ninkgepos andtens. zoedes girtte cidse, ip buib huip lim onkdenpo ag tog nuim schoes.
+19b:
+Volgens mij heb ik een pestgeval ontdekt. Pieter volgde Femke, dus Beau liep hem achterna op weg naar school.
+X dei kob ep eak ninkgepos andtens. zoedes girtte cidse, dul buib huip lim onkdenpo ag tog nuim schoes.
+19c:
+Volgens mij heb ik een pestgeval ontdekt. Pieter volgde Femke, en Beau liep haar achterna op weg naar school.
+X dei kob ep eak ninkgepos andtens. zoedes girtte cidse, ip buib huip reer onkdenpo ag tog nuim schoes.
+19d:
+Volgens mij heb ik een pestgeval ontdekt. Pieter volgde Femke, dus Beau liep haar achterna op weg naar school.
+X dei kob ep eak ninkgepos andtens. zoedes girtte cidse, dul buib huip reer onkdenpo ag tog nuim schoes.
+20a:
+Sommige van onze studenten zijn heel goed in paintball. Iris versloeg Aaron, en Gwen verpletterde hem in de volgende ronde volkomen.
+X nak euby stikerten zaap rool guig ep packsbays. ybat berzwijp uibar, il psan verzwingerde ker et ro betvelte liste bitcipen.
+20b:
+Sommige van onze studenten zijn heel goed in paintball. Iris versloeg Aaron, dus Gwen verpletterde hem in de volgende ronde volkomen.
+X nak euby stikerten zaap rool guig ep packsbays. ybat berzwijp uibar, wus psan verzwingerde ker et ro betvelte liste bitcipen.
+20c:
+Sommige van onze studenten zijn heel goed in paintball. Iris versloeg Aaron, en Gwen verpletterde haar in de volgende ronde volkomen.
+X nak euby stikerten zaap rool guig ep packsbays. ybat berzwijp uibar, il psan verzwingerde rier et ro betvelte liste bitcipen.
+20d:
+Sommige van onze studenten zijn heel goed in paintball. Iris versloeg Aaron, dus Gwen verpletterde haar in de volgende ronde volkomen.
+X nak euby stikerten zaap rool guig ep packsbays. ybat berzwijp uibar, wus psan verzwingerde rier et ro betvelte liste bitcipen.
+21a:
+Toen de deadline naderde schoot men erg in de stress. Martin bedreigde Karin, en Britt mepte hem met de krant van gisteren.
+X ri dauklair ticante scheek mip abs ef bo strous. lallan bestijdde zobyn, yl brole ladde rom kes by bront nal gadderen.
+21b:
+Toen de deadline naderde schoot men erg in de stress. Martin bedreigde Karin, dus Britt mepte hem met de krant van gisteren.
+X ri dauklair ticante scheek mip abs ef bo strous. lallan bestijdde zobyn, tus brole ladde hog kes by bront nal gadderen.
+21c:
+Toen de deadline naderde schoot men erg in de stress. Martin bedreigde Karin, en Britt mepte haar met de krant van gisteren.
+X ri dauklair ticante scheek mip abs ef bo strous. lallan bestijdde zobyn, yl brole ladde huim kes by bront nal gadderen.
+21d:
+Toen de deadline naderde schoot men erg in de stress. Martin bedreigde Karin, dus Britt mepte haar met de krant van gisteren.
+X ri dauklair ticante scheek mip abs ef bo strous. lallan bestijdde zobyn, tus brole ladde roor kes by bront nal gadderen.
+22a:
+We probeerden elkaar door het tentamen heen te helpen. Daphne hielp Edwin, en Roos ondersteunde hem tijdens de volgende twee lessen.
+X growaarden euboes poom hyp pellamen huip mo wamjen. keulze hijds yuban, ir haus onvenpreende ler poetekt gy betverte dwei ratjen.
+22b:
+We probeerden elkaar door het tentamen heen te helpen. Daphne hielp Edwin, dus Roos ondersteunde hem tijdens de volgende twee lessen.
+X growaarden euboes poom hyp pellamen huip mo wamjen. keulze hijds yuban, duk haus onvenpreende hod poetekt gy betverte dwei ratjen.
+22c:
+We probeerden elkaar door het tentamen heen te helpen. Daphne hielp Edwin, en Roos ondersteunde haar tijdens de volgende twee lessen.
+X growaarden euboes poom hyp pellamen huip mo wamjen. keulze hijds yuban, ir haus onvenpreende hijf poetekt gy betverte dwei ratjen.
+22d:
+We probeerden elkaar door het tentamen heen te helpen. Daphne hielp Edwin, dus Roos ondersteunde haar tijdens de volgende twee lessen.
+X growaarden euboes poom hyp pellamen huip mo wamjen. keulze hijds yuban, duk haus onvenpreende laam poetekt gy betverte dwei ratjen.
+23a:
+De groepsevaluatie liep nogal uit de hand. Patrick bespotte Manon, en Maud ontmoedigde hem met gemene en persoonlijke opmerkingen.
+X slijdsegituatie hijp zedol ies go kend. tascoxy bestuste zoban, ip puid ongmuitisde lim res vecepe il donmuittieke ommerbanten.
+23b:
+De groepsevaluatie liep nogal uit de hand. Patrick bespotte Manon, dus Maud ontmoedigde hem met gemene en persoonlijke opmerkingen.
+X slijdsegituatie hijp zedol ies go kend. tascoxy bestuste zoban, dul puid ongmuitisde hir res vecepe it donmuittieke ommerbanten.
+23c:
+De groepsevaluatie liep nogal uit de hand. Patrick bespotte Manon, en Maud ontmoedigde haar met gemene en persoonlijke opmerkingen.
+X slijdsegituatie hijp zedol ies go kend. tascoxy bestuste zoban, ip puid ongmuitisde reer res vecepe il donmuittieke ommerbanten.
+23d:
+De groepsevaluatie liep nogal uit de hand. Patrick bespotte Manon, dus Maud ontmoedigde haar met gemene en persoonlijke opmerkingen.
+X slijdsegituatie hijp zedol ies go kend. tascoxy bestuste zoban, dul puid ongmuitisde loor res vecepe it donmuittieke ommerbanten.
+24a:
+Iedereen probeerde stemmen te ronselen voor de verkiezingen. Emma overtuigde Albert, en Claire praatte hem daarna om in de trein.
+X growaarde vlidben wo homrelen veef gi germuikingen. idbi oterkeikde armast, it fralks vloedde ker woodwa ef yk lo groon.
+24b:
+Iedereen probeerde stemmen te ronselen voor de verkiezingen. Emma overtuigde Albert, dus Claire praatte hem daarna om in de trein.
+X growaarde vlidben wo homrelen veef gi germuikingen. idbi oterkeikde armast, wus fralks vloedde hif woodwa ef yk lo groon.
+24c:
+Iedereen probeerde stemmen te ronselen voor de verkiezingen. Emma overtuigde Albert, en Claire praatte haar daarna om in de trein.
+X growaarde vlidben wo homrelen veef gi germuikingen. idbi oterkeikde armast, it fralks vloedde rier woodwa ef yk lo groon.
+24d:
+Iedereen probeerde stemmen te ronselen voor de verkiezingen. Emma overtuigde Albert, dus Claire praatte haar daarna om in de trein.
+X growaarde vlidben wo homrelen veef gi germuikingen. idbi oterkeikde armast, wus fralks vloedde kaaf woodwa ef yk lo groon.
+25a:
+Het nieuws verspreidde zich als een lopend vuurtje. Berend e-mailde Lisa, en Noor belde hem tot diep in de nacht.
+X noornt benstrijgte zorf eks eas zaband gurntje. lebang ekolgde ryby, if joom lidse rom det poop ys ly nitst.
+25b:
+Het nieuws verspreidde zich als een lopend vuurtje. Berend e-mailde Lisa, dus Noor belde hem tot diep in de nacht.
+X noornt benstrijgte zorf eks eas zaband gurntje. lebang ekolgde ryby, hus joom lidse hog det poop ys ly nitst.
+25c:
+Het nieuws verspreidde zich als een lopend vuurtje. Berend e-mailde Lisa, en Noor belde haar tot diep in de nacht.
+X noornt benstrijgte zorf eks eas zaband gurntje. lebang ekolgde ryby, if joom lidse huim det poop ys ly nitst.
+25d:
+Het nieuws verspreidde zich als een lopend vuurtje. Berend e-mailde Lisa, dus Noor belde haar tot diep in de nacht.
+X noornt benstrijgte zorf eks eas zaband gurntje. lebang ekolgde ryby, hus joom lidse roor det poop ys ly nitst.
+26a:
+Iedereen was erg benieuwd naar wat er precies gebeurd was. Wendy ondervroeg Ruben, en Mike interviewde hem buiten onder de hoge boom.
+X kes awl veboenst nijf tet ym dreboel bewigns kos. lardo ankenkwijk liben, im zeba inderkeidde ler zoeber artes vo zeba baaf.
+26b:
+Iedereen was erg benieuwd naar wat er precies gebeurd was. Wendy ondervroeg Ruben, dus Mike interviewde hem buiten onder de hoge boom.
+X kes awl veboenst nijf tet ym dreboel bewigns kos. lardo ankenkwijk liben, dup zeba inderkeidde hod zoeber artes vo zeba baaf.
+26c:
+Iedereen was erg benieuwd naar wat er precies gebeurd was. Wendy ondervroeg Ruben, en Mike interviewde haar buiten onder de hoge boom.
+X kes awl veboenst nijf tet ym dreboel bewigns kos. lardo ankenkwijk liben, im zeba inderkeidde hijf zoeber artes vo zeba baaf.
+26d:
+Iedereen was erg benieuwd naar wat er precies gebeurd was. Wendy ondervroeg Ruben, dus Mike interviewde haar buiten onder de hoge boom.
+X kes awl veboenst nijf tet ym dreboel bewigns kos. lardo ankenkwijk liben, dup zeba inderkeidde laam zoeber artes vo zeba baaf.
+27a:
+Op de reunie kwam iedereen elkaar weer tegen. Ilse verwelkomde Robert, en Mark kuste hem als begroeting op de wang.
+X vi heukij vrom eudenaan eubijs poor ziwer. euba verfelgikde lomang, or tack mutte lim emp vewrijlert am no pong.
+27b:
+Op de reunie kwam iedereen elkaar weer tegen. Ilse verwelkomde Robert, dus Mark kuste hem als begroeting op de wang.
+X vi heukij vrom eudenaan eubijs poor ziwer. euba verfelgikde lomang, dug tack mutte hir emp vewrijlert am no pong.
+27c:
+Op de reunie kwam iedereen elkaar weer tegen. Ilse verwelkomde Robert, en Mark kuste haar als begroeting op de wang.
+X vi heukij vrom eudenaan eubijs poor ziwer. euba verfelgikde lomang, or tack mutte reer emp vewrijlert am no pong.
+27d:
+Op de reunie kwam iedereen elkaar weer tegen. Ilse verwelkomde Robert, dus Mark kuste haar als begroeting op de wang.
+X vi heukij vrom eudenaan eubijs poor ziwer. euba verfelgikde lomang, dug tack mutte loor emp vewrijlert am no pong.
+28a:
+Ze hadden niet verwacht elkaar in Vietnam tegen te komen. Hannah herkende Richard, en Paul sprak hem vrolijk aan.
+X leuten joot berbinst eubeis ym voedwom ziwes wi zeber. lanzob nafcelte lislins, ok teal spres ker floroet eep.
+28b:
+Ze hadden niet verwacht elkaar in Vietnam tegen te komen. Hannah herkende Richard, dus Paul sprak hem vrolijk aan.
+X leuten joot berbinst eubeis ym voedwom ziwes wi zeber. lanzob nafcelte lislins, dum teal spres hif floroet eep.
+28c:
+Ze hadden niet verwacht elkaar in Vietnam tegen te komen. Hannah herkende Richard, en Paul sprak haar vrolijk aan.
+X leuten joot berbinst eubeis ym voedwom ziwes wi zeber. lanzob nafcelte lislins, ok teal spres rier floroet eep.
+28d:
+Ze hadden niet verwacht elkaar in Vietnam tegen te komen. Hannah herkende Richard, dus Paul sprak haar vrolijk aan.
+X leuten joot berbinst eubeis ym voedwom ziwes wi zeber. lanzob nafcelte lislins, dum teal spres kaaf floroet eep.
+29a:
+Otto trakteerde Chantal, en John bood hem later die avond een drankje aan.
+X pletcijlde classil, if jaik bieg hog zodel pea ibast eat pleulse oop.
+29b:
+Otto trakteerde Chantal, dus John bood hem later die avond een drankje aan.
+X pletcijlde classil, hus jaik bieg hog zodel pea ibast eat pleulse oop.
+29c:
+Otto trakteerde Chantal, en John bood haar later die avond een drankje aan.
+X pletcijlde classil, if jaik bieg roor zodel pea ibast eat pleulse oop.
+29d:
+Otto trakteerde Chantal, dus John bood haar later die avond een drankje aan.
+X pletcijlde classil, hus jaik bieg roor zodel pea ibast eat pleulse oop.
+30a:
+De ontvangst was goed geregeld. Maaike verwelkomde Johan, en Joyce serveerde hem een lekker kopje koffie.
+X andbongst tys gijg gevekest. leause verfelgibde zabyn, im jalks nincijnde hod eam risser winse waggie.
+30b:
+De ontvangst was goed geregeld. Maaike verwelkomde Johan, dus Joyce serveerde hem een lekker kopje koffie.
+X andbongst tys gijg gevekest. leause verfelgibde zabyn, dup jalks nincijnde hod eam risser winse waggie.
+30c:
+De ontvangst was goed geregeld. Maaike verwelkomde Johan, en Joyce serveerde haar een lekker kopje koffie.
+X andbongst tys gijg gevekest. leause verfelgibde zabyn, im jalks nincijnde laam eam risser winse waggie.
+30d:
+De ontvangst was goed geregeld. Maaike verwelkomde Johan, dus Joyce serveerde haar een lekker kopje koffie.
+X andbongst tys gijg gevekest. leause verfelgibde zabyn, dup jalks nincijnde laam eam risser winse waggie.
+31a:
+Sommige mensen hebben een druk sociaal leven. Thomas ging bij Agnes op visite, en Bram bezocht hem later die week twee keer.
+X laljen mirwen uik bluk nivoees ziber. flobyl gonk lau oubel id bucite, or slom vebanst hir zodes pei waat gnei koef.
+31b:
+Sommige mensen hebben een druk sociaal leven. Thomas ging bij Agnes op visite, dus Bram bezocht hem later die week twee keer.
+X laljen mirwen uik bluk nivoees ziber. flobyl gonk lau oubel id bucite, dug slom vebanst hir zodes pei waat gnei koef.
+31c:
+Sommige mensen hebben een druk sociaal leven. Thomas ging bij Agnes op visite, en Bram bezocht haar later die week twee keer.
+X laljen mirwen uik bluk nivoees ziber. flobyl gonk lau oubel id bucite, or slom vebanst loor zodes pei waat gnei koef.
+31d:
+Sommige mensen hebben een druk sociaal leven. Thomas ging bij Agnes op visite, dus Bram bezocht haar later die week twee keer.
+X laljen mirwen uik bluk nivoees ziber. flobyl gonk lau oubel id bucite, dug slom vebanst loor zodes pei waat gnei koef.
+32a:
+De ruzie was nog niet goed uitgepraat. Stefan ontweek Petra, en Els negeerde hem de rest van de dag.
+X runee hys jeg joet gieg eeldewheef. drebyr andboek zisco, ok ard zemaarde hif ni hast nas ji teg.
+32b:
+De ruzie was nog niet goed uitgepraat. Stefan ontweek Petra, dus Els negeerde hem de rest van de dag.
+X runee hys jeg joet gieg eeldewheef. drebyr andboek zisco, dum ard zemaarde hif ni hast nas ji teg.
+32c:
+De ruzie was nog niet goed uitgepraat. Stefan ontweek Petra, en Els negeerde haar de rest van de dag.
+X runee hys jeg joet gieg eeldewheef. drebyr andboek zisco, ok ard zemaarde kaaf ni hast nas ji teg.
+32d:
+De ruzie was nog niet goed uitgepraat. Stefan ontweek Petra, dus Els negeerde haar de rest van de dag.
+X runee hys jeg joet gieg eeldewheef. drebyr andboek zisco, dum ard zemaarde kaaf ni hast nas ji teg.

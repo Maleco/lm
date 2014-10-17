@@ -16,7 +16,7 @@ jsPsych.init({
 	 display_element: $('#target'),
 	 experiment_structure: [instruction_block],
 	 on_finish: function(data) {
-			window.location.replace("experiment.php");
+			window.location.href = "experiment.php";
 	 }
 }
 );

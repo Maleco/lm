@@ -13,16 +13,7 @@
 /*
  * TODO
  *
- *	auto find ppos
- *
- *	input filler sentences
- *	
- * 	randomize sentence order
- * 		keep track of sentence id
- *
  * 	error report
- *
- *	
  */
 var variants = 
 [
@@ -95,7 +86,7 @@ function processData(filedata, shuffledStructure)
 				correct = false;
 		
 		// Process only correct target sentences, fillers have id:-1
-		if(shuffledStructure[i].id != -1 && correct == true)
+		if(shuffledStructure[i].filler == 0 && correct == true)
 		{
 			// This sentence's result
 			var sentenceResult = [];
@@ -130,7 +121,7 @@ function saveData(data)
 $(document).ready(function() {
 	//
 	// Parse in the XML
-	$.getJSON('test.json', function(sentences) {
+	$.getJSON('allsentences.json', function(sentences) {
 		/*
 		 * The general structure of the sentences:
 		 * 	sentence id,
@@ -179,7 +170,8 @@ $(document).ready(function() {
 					"variant":sentence.variant,
 					"correct":correct,
 					"incorrect":incorrect,
-					"ppos":ppos
+					"ppos":ppos,
+					"filler":sentence.filler
 				};
 				structure[structure.length] = structureSentence;
 			}
@@ -235,7 +227,7 @@ $(document).ready(function() {
 				{
 					console.log(processedResults);
 					var json = JSON.stringify(processedResults);
-					//saveData(json);
+					saveData(json);
 				} else {
 					window.location.href = "thanks.php";
 				}

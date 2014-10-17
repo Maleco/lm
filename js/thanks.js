@@ -1,7 +1,6 @@
 // Experiment instructions
 var thank_message = 
-"<div id='instructions'><p>Thanks for contributing to our L-Maze Experiment.</br>" + 
-"Press any button to take the experiment again, or feel free to leave this page</p></div>";
+"<div id='instructions'><p>Bedankt voor het meedoen aan het experiment.<br> Druk op een toets om terug te keren naar de homepage indien gewenst.</p></div>";
 
 var instruction_block = {
 	 type: "text", 
