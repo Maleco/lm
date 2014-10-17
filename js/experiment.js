@@ -9,12 +9,28 @@
  *
  *	Determine strategy according to # of finished experiments on server
  */
-var variants = [
+
+/*
+ * TODO
+ *
+ *	auto find ppos
+ *
+ *	input filler sentences
+ *	
+ * 	randomize sentence order
+ * 		keep track of sentence id
+ *
+ * 	error report
+ *
+ *	
+ */
+var variants = 
+[
 	[
 		"a", "a", "a", "a", 
 		"b", "b", "b", "b", 
 		"c", "c", "c", "c",
-		"d", "d", "d", "d"
+		"d", "d", "d", "d",
 	],[
 		"b", "b", "b", "b", 
 		"c", "c", "c", "c",
@@ -33,33 +49,71 @@ var variants = [
 	]
 	];
 
-	// Save the file data
-	function processData(filedata, pronounPositions, variant){
-		var results = [];
-		var sentenceData = [];
-		// Remove all the message results.
-		for (i=0; i< filedata.length; i+=2)
-			sentenceData.push(filedata[i]);
+	// The standard filler block for between sentences
+	var filler = "<div id='instructions'>Prepare for the next sentence!<br>Press any button to continue</div>";
+	var filler_block = {
+		type: "text",
+		text: [filler]
+	};
 
-		// Process every sentence
-		for (i=0; i<sentenceData.length; ++i)
+function shuffle(array) 
+{
+	var currentIndex = array.length, temporaryValue, randomIndex ;
+
+	// While there remain elements to shuffle...
+	while (0 !== currentIndex) {
+
+		// Pick a remaining element...
+		randomIndex = Math.floor(Math.random() * currentIndex);
+		currentIndex -= 1;
+
+		// And swap it with the current element.
+		temporaryValue = array[currentIndex];
+		array[currentIndex] = array[randomIndex];
+		array[randomIndex] = temporaryValue;
+	}
+	return array;
+}
+
+// Process the file data
+function processData(filedata, shuffledStructure)
+{
+	console.log(filedata);
+	var sentenceData = [];
+	// Remove all the message results.
+	for (i=0; i< filedata.length; i+=2)
+		sentenceData.push(filedata[i]);
+
+	var results = [];
+	// Process every sentence
+	for (i=0; i<sentenceData.length; ++i)
+	{
+		// Check if no errors were made
+		var correct = true;
+		for(j=0; j<sentenceData[i].length;j++)
+			if (sentenceData[i][j].correct == false)
+				correct = false;
+		
+		// Process only correct target sentences, fillers have id:-1
+		if(shuffledStructure[i].id != -1 && correct == true)
 		{
 			// This sentence's result
 			var sentenceResult = [];
 
-			var sentenceName = "" + (i+1) + variant[i];
-			// Save the sentence name, pronoun position RT + the two following RT's
-			sentenceResult.push(sentenceName);
-			sentenceResult.push(sentenceData[i][pronounPositions[i] ].rt);
-			sentenceResult.push(sentenceData[i][pronounPositions[i]+1 ].rt);
-			sentenceResult.push(sentenceData[i][pronounPositions[i]+2 ].rt);
+			// Save id and variant
+			sentenceResult.push(shuffledStructure[i].id);
+			sentenceResult.push(shuffledStructure[i].variant);
+			// Save the sentence pronoun position RT + the two following RT's
+			sentenceResult.push(sentenceData[i][shuffledStructure[i].ppos  ].rt);
+			sentenceResult.push(sentenceData[i][shuffledStructure[i].ppos+1].rt);
+			sentenceResult.push(sentenceData[i][shuffledStructure[i].ppos+2].rt);
 
 			results.push(sentenceResult);
 		}
-		console.log(results);
-
-		return results;
 	}
+	return results;
+}
+
 function saveData(data)
 {
 	$.ajax({
@@ -67,77 +121,124 @@ function saveData(data)
 		cache: false,
 		url: 'savedata.php',
 		data: {data: data},
-			complete: function(data) {
-				window.location.href = "thanks.php";
-			}
+		complete: function(data) {
+			window.location.href = "thanks.php";
+		}
 	});
 }
 
 $(document).ready(function() {
+	//
 	// Parse in the XML
-
-	$.getJSON('test.json', function(data) {
-		var sentences = data["sentences"];
+	$.getJSON('test.json', function(sentences) {
+		/*
+		 * The general structure of the sentences:
+		 * 	sentence id,
+		 * 	correct sentence string 
+		 * 	incorrect sentence string 
+		 * 	ppos 
+		 *
+		 * After creation of this structure, sentences are mixed
+		 * Then put into experiment in that order
+		 */
 		var structure = [];
-		var filler = "<div id='instructions'>Prepare for the next sentence!<br>Press any button to continue</div>";
-		var filler_block = {
-			type: "text",
-			text: [filler]
-		};
 
-		// Choose a variant (0-3) at random
+		// Choose the variant for this experiment
 		var count = parseInt(document.getElementById("count-target").textContent);
 		var variant = variants[count%4];
-		var pronounPositions= [];
-		// Create an experiment block for every sentence
-		for (i=0; i<sentences.length; ++i) {
-			var sentence = sentences[i][variant[i]];
-			var correct = sentence.correct.split(" ");
-			var incorrect = sentence.incorrect.split(" ");
-			pronounPositions.push(sentence.ppos);
-			var answers = [];
-			var stimuli = [];
-			for (j=0; j<correct.length; ++j) {
-				if (Math.random() > 0.5) {
-					stimuli.push(
-							"<div class = stimulus id=left>" 	+ correct[j]   + "</div>"+ 
-							"<div class = stimulus id=right>" + incorrect[j] + "</div>"
-							);
-					answers.push(37);
-				} else { 
-					stimuli.push(
-							"<div class = stimulus id=left>" 	+ incorrect[j]   + "</div>"+ 
-							"<div class = stimulus id=right>" + correct[j] + "</div>"
-							);
-					answers.push(39);
-				}
-			}
 
-			// Create the trial block
-			var block = 
-			{
-				type: 'categorize',
-				display_element: $('#target'),
-				stimuli: stimuli,
-				key_answer: answers,
-				choices: [37, 39],
-				timing_feedback_duration: 1,
-				timing_post_trial: 0,
-				is_html: true,
-			};
-			structure.push(block);
-			structure.push(filler_block);
-		}
+			// Collect the sentences to be used together with their id
+			for (i=0; i<sentences.length/4; i++) {
+				var sentence = [];
+				var letter = variant[i % variant.length];
+				switch (letter) {
+					case "a":
+						sentence = sentences[i*4 +0];
+						break;
+					case "b":
+						sentence = sentences[i*4 +1];
+						break;
+					case "c":
+						sentence = sentences[i*4 +2];
+						break;
+					case "d":
+						sentence = sentences[i*4 +3];
+						break;
+				}	
+
+				// Find the pronoun position
+				var correct = sentence.correct.split(" ");
+				var incorrect = sentence.incorrect.split(" ");
+				// Only hij and ze are pronouns
+				var ppos= (correct.indexOf("hij") != -1) ?
+					correct.indexOf("hij") :
+					correct.indexOf("ze");
+
+				var structureSentence = {
+					"id":sentence.id, 
+					"variant":sentence.variant,
+					"correct":correct,
+					"incorrect":incorrect,
+					"ppos":ppos
+				};
+				structure[structure.length] = structureSentence;
+			}
+		var shuffledStructure = shuffle(structure);
+
+		// Create an experiment block for every sentence
+		var experimentStructure = []
+			for (i=0; i<shuffledStructure.length; ++i) {
+				var answers = [];
+				var stimuli = [];
+				for (j=0; j<shuffledStructure[i].correct.length; ++j) {
+					if (Math.random() > 0.5) {
+						stimuli.push(
+								"<div class = stimulus id=left>" 	+ shuffledStructure[i].correct[j]   + "</div>"+ 
+								"<div class = stimulus id=right>" + shuffledStructure[i].incorrect[j] + "</div>"
+								);
+						answers.push(37);
+					} else { 
+						stimuli.push(
+								"<div class = stimulus id=left>" 	+ shuffledStructure[i].incorrect[j]   + "</div>"+ 
+								"<div class = stimulus id=right>" + shuffledStructure[i].correct[j] + "</div>"
+								);
+						answers.push(39);
+					}
+				}
+
+				// Create the trial block
+				var block = 
+				{
+					type: 'categorize',
+					display_element: $('#target'),
+					stimuli: stimuli,
+					key_answer: answers,
+					choices: [37, 39],
+					timing_feedback_duration: 1,
+					timing_post_trial: 0,
+					is_html: true,
+				};
+				experimentStructure.push(block);
+				experimentStructure.push(filler_block);
+			}
 		// Remove the last filler block
-		structure.pop();
+		experimentStructure.pop();
+		console.log("experimentStructure");
+		console.log(experimentStructure);
 
 		// Run the experiment 
 		jsPsych.init({
-			experiment_structure: structure,
+			experiment_structure: experimentStructure,
 			on_finish: function(data) {
-						var json = JSON.stringify(processData(data, pronounPositions, variant));
-						saveData(json);
-						//window.location.replace("savedata.php?data="+json);
+				var processedResults = processData(data, shuffledStructure);
+				if (processedResults.length > 0)
+				{
+					console.log(processedResults);
+					var json = JSON.stringify(processedResults);
+					//saveData(json);
+				} else {
+					window.location.href = "thanks.php";
+				}
 			}
 		});
 
