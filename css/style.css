@@ -1,17 +1,40 @@
+html {
+ font-family: 'Open Sans', 'Arial', sans-serif;
+ font-size: 18px;
+ line-height: 1.6em;
+}
+
 body {
 	 background-color: whitesmoke;
 }
 
+.content {
+	 width: 700px;
+	 margin: 0 auto;
+	 text-align: center;
+}
+
+.form {
+	 width: 70%;
+	 margin: 0 auto;
+	 text-align: left;
+}
+
 .stimulus {
-	 text-transform: uppercase;
 	 font-size: xx-large;
 }
 
 #left {
+	 width: 50%;
 	 float: left;
 }
 
 #right { 
 	 float: right;
+	 width: 50%;
 }
 
+.jspsych-display-element {
+	 width: 700px;
+	 text-align: center;
+}

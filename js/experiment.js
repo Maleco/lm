@@ -10,11 +10,14 @@
  *	Determine strategy according to # of finished experiments on server
  */
 
+var sentenceFile = "data/test.json";
+
 /*
  * TODO
  *
  * 	error report
  */
+
 var variants = 
 [
 	[
@@ -41,7 +44,8 @@ var variants =
 	];
 
 	// The standard filler block for between sentences
-	var filler = "<div id='instructions'>Prepare for the next sentence!<br>Press any button to continue</div>";
+	var filler = 
+	"<div id='instructions'>Let op, hier komt een nieuwe zin! <br>Druk op een toets om verder te gaan</div>";
 	var filler_block = {
 		type: "text",
 		text: [filler]
@@ -76,6 +80,11 @@ function processData(filedata, shuffledStructure)
 		sentenceData.push(filedata[i]);
 
 	var results = [];
+
+	// Input column names
+	results.push([
+	"name", "native_language", "language_5", "grow_up", "gender", "age", "email", "sentence_id", "sentence_variant","RT_ppos", "RT_ppos1", "RT_ppos2"
+	])
 	// Process every sentence
 	for (i=0; i<sentenceData.length; ++i)
 	{
@@ -91,6 +100,29 @@ function processData(filedata, shuffledStructure)
 			// This sentence's result
 			var sentenceResult = [];
 
+			// Save user data
+			// Name
+			sentenceResult.push(
+						document.getElementById("user-data-name").textContent.trim());
+			// Native Language
+			sentenceResult.push(
+						document.getElementById("user-data-natlang").textContent.trim());
+			// Language at 5
+			sentenceResult.push(
+						document.getElementById("user-data-lang5").textContent.trim());
+			// Where they grew up
+			sentenceResult.push(
+						document.getElementById("user-data-growup").textContent.trim());
+			// Gender
+			sentenceResult.push(
+						document.getElementById("user-data-gender").textContent.trim());
+			// Age
+			sentenceResult.push(
+						document.getElementById("user-data-age").textContent.trim());
+			// Email
+			sentenceResult.push(
+						document.getElementById("user-data-email").textContent.trim());
+		
 			// Save id and variant
 			sentenceResult.push(shuffledStructure[i].id);
 			sentenceResult.push(shuffledStructure[i].variant);
@@ -121,7 +153,7 @@ function saveData(data)
 $(document).ready(function() {
 	//
 	// Parse in the XML
-	$.getJSON('allsentences.json', function(sentences) {
+	$.getJSON(sentenceFile, function(sentences) {
 		/*
 		 * The general structure of the sentences:
 		 * 	sentence id,
@@ -220,6 +252,7 @@ $(document).ready(function() {
 
 		// Run the experiment 
 		jsPsych.init({
+			display_element: $('#jspsych_target'),
 			experiment_structure: experimentStructure,
 			on_finish: function(data) {
 				var processedResults = processData(data, shuffledStructure);
