@@ -10,7 +10,7 @@
  *	Determine strategy according to # of finished experiments on server
  */
 
-var sentenceFile = "data/test.json";
+var sentenceFile = "data/allsentences.json";
 
 /*
  * TODO
