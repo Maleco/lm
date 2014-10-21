@@ -31,28 +31,28 @@
 		"id":"2",
 		"variant":"a",
 		"filler": "0",
-		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof hij helemaal overtsuur was.",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof hij helemaal overstuur was.",
 		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam kui hemepeel ovenstome pes."
 	},
 	{
 		"id":"2",
 		"variant":"b",
 		"filler": "0",
-		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof ze helemaal overtsuur was.",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof ze helemaal overstuur was.",
 		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam vo hemepeel ovenstome pes."
 	},
 	{
 		"id":"2",
 		"variant":"c",
 		"filler": "0",
-		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof ze helemaal overtsuur was.",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof ze helemaal overstuur was.",
 		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam vo hemepeel ovenstome pes."
 	},
 	{
 		"id":"2",
 		"variant":"d",
 		"filler": "0",
-		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof hij helemaal overtsuur was.",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof hij helemaal overstuur was.",
 		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam kui hemepeel ovenstome pes."
 	},
 	{
@@ -284,28 +284,28 @@
 		"variant":"a",
 		"filler": "0",
 		"correct":"In de hoek van het klooster zag ik de non de hand van een jongetje vasthouden. Het zag eruit alsof ze een verhaal vertelde.",
-		"incorrect":"X fi heis daf hyl spearder zer an zi jin za hers din oet nêterste vouwkouden. hys zef inoep olfym ji oem berboet bencyote."
+		"incorrect":"X fi heis daf hyl spearder zer an zi jin za hers din oet neterste vouwkouden. hys zef inoep olfym ji oem berboet bencyote."
 	},
 	{
 		"id":"11",
 		"variant":"b",
 		"filler": "0",
 		"correct":"In de hoek van het klooster zag ik de non de hand van een jongetje vasthouden. Het zag eruit alsof hij een verhaal vertelde.",
-		"incorrect":"X fi heis daf hyl spearder zer an zi jin za hers din oet nêterste vouwkouden. hys zef inoep olfym lie oem berboet bencyote."
+		"incorrect":"X fi heis daf hyl spearder zer an zi jin za hers din oet neterste vouwkouden. hys zef inoep olfym lie oem berboet bencyote."
 	},
 	{
 		"id":"11",
 		"variant":"c",
 		"filler": "0",
 		"correct":"In de hoek van het klooster zag ik een jongetje de hand van de non vasthouden. Het zag eruit alsof hij een verhaal vertelde.",
-		"incorrect":"X fi heis daf hyl spearder zer an oet nêterste zi hers din za jin vouwkouden. hys zef inoep olfym lie oem berboet bencyote."
+		"incorrect":"X fi heis daf hyl spearder zer an oet neterste zi hers din za jin vouwkouden. hys zef inoep olfym lie oem berboet bencyote."
 	},
 	{
 		"id":"11",
 		"variant":"d",
 		"filler": "0",
 		"correct":"In de hoek van het klooster zag ik een jongetje de hand van de non vasthouden. Het zag eruit alsof ze een verhaal vertelde.",
-		"incorrect":"X fi heis daf hyl spearder zer an oet nêterste zi hers din za jin vouwkouden. hys zef inoep olfym ji oem berboet bencyote."
+		"incorrect":"X fi heis daf hyl spearder zer an oet neterste zi hers din za jin vouwkouden. hys zef inoep olfym ji oem berboet bencyote."
 	},
 	{
 		"id":"12",
