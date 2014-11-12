@@ -11,11 +11,13 @@
 <html>
 	 <head>
 			<title>Language Modelling Experiment 1 (2015)</title>
+			<meta charset="utf-8">
 			<!-- Load jQuery -->
 			<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 			<!-- Load the jspsych library and plugins -->
 			<script src="js/jspsych.js"></script>
 			<script src="plugins/jspsych-text.js"></script>
+			<script src="plugins/jspsych-survey-text.js"></script>
 			<script src="plugins/jspsych-categorize.js"></script>
 			<link rel="stylesheet" href="css/jspsych.css">
 			<link rel="stylesheet" href="css/style.css">

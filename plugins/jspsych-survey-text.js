@@ -55,7 +55,7 @@
                 'id': 'jspsych-survey-text-next',
                 'class': 'jspsych-survey-text'
             }));
-            $("#jspsych-survey-text-next").html('Submit Answers');
+            $("#jspsych-survey-text-next").html('Volgende zin');
             $("#jspsych-survey-text-next").click(function() {
                 // measure response time
                 var endTime = (new Date()).getTime();

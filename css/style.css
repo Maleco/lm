@@ -14,6 +14,9 @@ body {
 	 text-align: center;
 }
 
+.content p, .content ol li {
+	 text-align: left;
+}
 .form {
 	 width: 70%;
 	 margin: 0 auto;
@@ -38,3 +41,9 @@ body {
 	 width: 700px;
 	 text-align: center;
 }
+
+#instructions, #jspsych_target #jspsych-categorize-stimulus #progress {
+	 margin-bottom: 100px;
+}
+
+

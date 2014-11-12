@@ -26,5 +26,61 @@
 		"filler": "0",
 		"correct":"Ik liep de kamer binnen en zag een man met de oppas. Het leek erop dat ze de baby net naar bed gebracht had.",
 		"incorrect":"X ruip wa zobel gopben ap zed oep wap tek mo afbal. has lijt inaf wot vo wo gowi jek joor bog bescinst hog."
+	},
+	{
+		"id":"2",
+		"variant":"a",
+		"filler": "0",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof hij helemaal overstuur was.",
+		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam kui hemepeel ovenstome pes."
+	},
+	{
+		"id":"2",
+		"variant":"b",
+		"filler": "0",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen de zuster die een klein jongetje vast hield. Het zag eruit alsof ze helemaal overstuur was.",
+		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber to zitter woe uip spoon netderste zest huims. lit zod inoes oulam vo hemepeel ovenstome pes."
+	},
+	{
+		"id":"2",
+		"variant":"c",
+		"filler": "0",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof ze helemaal overstuur was.",
+		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam vo hemepeel ovenstome pes."
+	},
+	{
+		"id":"2",
+		"variant":"d",
+		"filler": "0",
+		"correct":"We kwamen de ziekenhuiskamer binnen en zagen een kleine jongetje die de zuster vasthield. Het zag eruit alsof hij helemaal overstuur was.",
+		"incorrect":"X fleber wi zuikenceefpamer gopwen ol xeber uip fleeba netderste woe to zitter vangbijnt. lit zod inoes oulam kui hemepeel ovenstome pes."
+	},
+	{
+		"id":"3",
+		"variant":"a",
+		"filler": "0",
+		"correct":"Toen ik de keuken in kwam, zag ik de huishoudster tegen een man schreeuwen. Blijkbaar had ze net een muis gezien in een van de keukenkastjes.",
+		"incorrect":"X ot ta lorsen yp clom, zid ol hi rijnpapsster ziber ijp mip schweidser. ploelmaar ked vi jes oop woes zeboer ol aul zen hy dyspenbodsves."
+	},
+	{
+		"id":"3",
+		"variant":"b",
+		"filler": "0",
+		"correct":"Toen ik de keuken in kwam, zag ik de huishoudster tegen een man schreeuwen. Blijkbaar had hij net een muis gezien in een van de keukenkastjes.",
+		"incorrect":"X ot ta lorsen yp clom, zid ol hi rijnpapsster ziber ijp mip schweidser. ploelmaar ked rau jes oop woes zeboer ol aul zen hy dyspenbodsves."
+	},
+	{
+		"id":"3",
+		"variant":"c",
+		"filler": "0",
+		"correct":"Toen ik de keuken in kwam, zag ik een man schreeuwen tegen de huishoudster. Blijkbaar had hij net een muis gezien in een van de keukenkastjes.",
+		"incorrect":"X ot ta lorsen yp clom, zid ol ijp mip schweidser ziber hi rijnpapsster. ploelmaar ked rau jes oop woes zeboer ol aul zen hy dyspenbodsves."
+	},
+	{
+		"id":"3",
+		"variant":"d",
+		"filler": "0",
+		"correct":"Toen ik de keuken in kwam, zag ik een man schreeuwen tegen de huishoudster. Blijkbaar had ze net een muis gezien in een van de keukenkastjes.",
+		"incorrect":"X ot ta lorsen yp clom, zid ol ijp mip schweidser ziber hi rijnpapsster. ploelmaar ked vi jes oop woes zeboer ol aul zen hy dyspenbodsves."
 	}
 ]

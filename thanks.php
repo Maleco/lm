@@ -2,6 +2,7 @@
 <html>
 	 <head>
 			<title>My experiment</title>
+			<meta charset="utf-8">
 			<!-- Load jQuery -->
 			<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
 			<!-- Load the jspsych library and plugins -->
@@ -13,14 +14,16 @@
 			<meta charset="utf-8">
 	 </head>
 	 <body>
-			<div id='instructions'>
-				 <p>
-				 Bedankt voor het meedoen aan het experiment.<br> 
-				 Druk op de knop om terug te keren naar de homepage indien gewenst.
-				 </p>
-			</div>
+			<div class="content">
+				 <div id='instructions'>
+						<p>
+						Bedankt voor het meedoen aan het experiment.<br> 
+						Druk op de knop om terug te keren naar de homepage indien gewenst.
+						</p>
+				 </div>
 			<form name="info" method="post" action="index.php">
 				 <input type="submit" class="start" value="De Knop"><br><br>
 			</form>
+			</div>
 	 </body>
 </html>

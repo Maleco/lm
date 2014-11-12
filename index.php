@@ -1,7 +1,7 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html><html>
 	 <head>
 			<title>Language  Modelling Experiment 1 (2015)</title>
+			<meta charset="utf-8">
 			<link rel="stylesheet" href="css/style.css">
 	 </head>
 	 <body>
